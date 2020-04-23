@@ -1,0 +1,13 @@
+git status
+
+git diff
+
+git diff --name-only
+
+git checkout HEAD --
+
+
+
+
+
+

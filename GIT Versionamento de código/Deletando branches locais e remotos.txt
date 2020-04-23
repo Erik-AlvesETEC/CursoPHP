@@ -1,0 +1,9 @@
+git branch
+
+git checkout test
+
+git push origin test
+
+git push origin :test
+
+git branch -D test

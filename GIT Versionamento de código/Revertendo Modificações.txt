@@ -1,0 +1,10 @@
+git log
+
+git branch
+
+git reset --soft
+
+git reset --mix
+
+git reset --hard
+

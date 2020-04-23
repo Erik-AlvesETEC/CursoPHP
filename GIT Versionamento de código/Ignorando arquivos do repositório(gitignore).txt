@@ -1,0 +1,1 @@
+criar pasta com o nome .gitignore

@@ -1,0 +1,15 @@
+git status
+
+git branch
+
+git log
+
+git branch teste
+
+git branch
+
+git checkout teste
+
+git branch
+
+git branch master

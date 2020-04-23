@@ -1,0 +1,10 @@
+git clone  url
+
+git add -A
+
+git commit -m "v4"
+
+git remote -v
+
+git push origin 
+
