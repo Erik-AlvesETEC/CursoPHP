@@ -1,0 +1,11 @@
+git config --global user.name "Erik Alves"
+
+git config --global user.email "erikalvesprincipal@gmail.com"
+
+git config --global core.editor sub
+
+git config user.name
+
+git config user.name
+
+git config --list

@@ -1,0 +1,13 @@
+body {
+   margin: 0px;
+}
+.teste{
+    width:600px;
+    height:300px;
+    background-color: black;
+}
+@media only screen and (min-width:200px) and (max-width:500px) and (orientation:landscape) {
+    .teste {
+        width:200px;
+    }
+}

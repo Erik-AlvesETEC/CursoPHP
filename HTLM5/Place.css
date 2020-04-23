@@ -1,0 +1,16 @@
+body {
+    margin:auto;
+    background-color:#EEE;
+}
+form {
+    width:180px;
+    height:120px;
+    background-color:#DDD;
+    margin-top:30px;
+    padding:20px;
+    margin:auto;
+}
+input{
+    padding:5px;
+    font-size:13px;
+}
