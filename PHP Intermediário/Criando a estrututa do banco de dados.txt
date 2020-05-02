@@ -1,0 +1,9 @@
+--Ferramenta usada:phpMyAdmin--
+
+Banco de dados blog
+- posts
+   - titulo
+   - data que foi criado
+   - corpo da postagem
+   - autor
+   - id
